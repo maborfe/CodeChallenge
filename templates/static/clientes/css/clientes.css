@@ -1,0 +1,46 @@
+.card-dashboard{
+
+    background-color: var(--main-color);
+    width: 50%;
+    margin-left: 10px;
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+.text-card{
+
+    font-size: 25px;
+    margin: auto
+
+}
+
+.btn-add-carros{
+
+    background-color: var(--contrast-color);
+    padding: 5px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+
+.btn-principal{
+    color:white;
+    border: none;
+    background-color: var(--dark-color);
+    padding: 5px;
+    font-size: 30px;
+}
+
+#update-cliente,
+#form-upd-cliente{
+    display:none;
+}
+
+.client-titles{
+    color: rgb(119, 87, 87);
+    font-weight: 700;
+}
+
